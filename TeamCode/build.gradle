@@ -13,8 +13,8 @@ apply plugin: 'com.android.application'
 // Custom definitions may go here
 android {
     sourceSets {
-        main.java.srcDirs += '../../FTC-Team-25/java'
-        main.java.srcDirs += '../../FTC-Team-25/2016'
+        main.java.srcDirs += '../../terkel/java'
+        main.java.srcDirs += '../../FTC-Team-25/2017'
     }
 }
 // Include common definitions from above.
